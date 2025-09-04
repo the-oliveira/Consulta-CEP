@@ -1,0 +1,134 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="_dLsa1vw466zH-KXTU-M">
+    <mxGraphModel dx="1042" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7kV1-ZxdmKerW1unohM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-1" target="R7kV1-ZxdmKerW1unohM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-1" value="REQUISIÇÃO&amp;nbsp;&lt;div&gt;HTTP GET&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-2" target="R7kV1-ZxdmKerW1unohM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-2" value="Usuario interage com o front-end" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-5" target="R7kV1-ZxdmKerW1unohM-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-5" target="R7kV1-ZxdmKerW1unohM-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-5" value="API-CONTROLLER&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-7" target="R7kV1-ZxdmKerW1unohM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-7" value="API - REPOSITORY&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-10" target="R7kV1-ZxdmKerW1unohM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-10" value="BANCO DE DADOS DE CEP&amp;nbsp;" style="whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-12" target="R7kV1-ZxdmKerW1unohM-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-12" value="&lt;font face=&quot;Verdana&quot;&gt;Executa o select no banco de dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="435" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-13" target="R7kV1-ZxdmKerW1unohM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-13" value="Monta a query e envia para o repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-25" target="R7kV1-ZxdmKerW1unohM-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="-170" />
+              <mxPoint x="280" y="-170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-67" value="Envia os dados formatados&lt;div&gt;em JSON e o código HTTP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7kV1-ZxdmKerW1unohM-64">
+          <mxGeometry x="-0.0142" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-77" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-25" value="NODE.JS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-28" target="R7kV1-ZxdmKerW1unohM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-28" value="Devolve os dados para o controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.52;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-7" target="R7kV1-ZxdmKerW1unohM-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-40" target="R7kV1-ZxdmKerW1unohM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-40" value="Deu submit no CEP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-43" target="R7kV1-ZxdmKerW1unohM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-43" value="NODE.JS recebe a requisição" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-49" target="R7kV1-ZxdmKerW1unohM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-49" value="Envia a requisição para o controller&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-50" target="R7kV1-ZxdmKerW1unohM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-50" value="Devolve o JSON formatado como resposta e o código HTTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-70" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-2" target="R7kV1-ZxdmKerW1unohM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7kV1-ZxdmKerW1unohM-63" target="R7kV1-ZxdmKerW1unohM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-66" value="Angular exibe os dados recebidos para o usuario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R7kV1-ZxdmKerW1unohM-65">
+          <mxGeometry x="-0.3848" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7kV1-ZxdmKerW1unohM-63" value="Angular" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

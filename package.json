@@ -1,0 +1,22 @@
+{
+  "name": "projeto_cep",
+  "version": "1.0.0",
+  "description": "Consulta CEP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "porta3001": "set PORT=3001 && node app.js"
+  },
+  "author": "Eduardo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
